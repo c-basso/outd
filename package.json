@@ -1,0 +1,15 @@
+{
+  "name": "outd",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "outd": "./bin/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "prompts": "^2.4.2",
+    "semver": "^7.3.5"
+  }
+}
