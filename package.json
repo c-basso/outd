@@ -1,12 +1,26 @@
 {
   "name": "outd",
   "version": "1.0.0",
-  "description": "",
+  "description": "Tiny helper for update outdated dependencies",
   "bin": {
     "outd": "./bin/index.js"
   },
-  "keywords": [],
-  "author": "",
+  "files": [
+    "src",
+    "bin"
+  ],
+  "keywords": [
+    "outdated",
+    "helper",
+    "outd",
+    "npm"
+  ],
+  "author": "c-basso@ya.ru",
+  "homepage": "https://github.com/c-basso/outd",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/c-basso/outd.git"
+  },
   "license": "MIT",
   "dependencies": {
     "prompts": "^2.4.2",
